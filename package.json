@@ -1,0 +1,22 @@
+{
+	"name": "practice",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bohdan3645/node-practice.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/bohdan3645/node-practice/issues"
+	},
+	"homepage": "https://github.com/bohdan3645/node-practice#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}

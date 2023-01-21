@@ -1,0 +1,18 @@
+[
+	{
+		"productName": "Apples",
+		"color": "red"
+	},
+	{
+		"productName": "Grapes",
+		"color": "green"
+	},
+	{
+		"productName": "Orange",
+		"color": "orange"
+	},
+	{
+		"productName": "Cherry",
+		"color": "purple"
+	}
+]
